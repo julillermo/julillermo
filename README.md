@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### Books or references I have finished or mostly gone over:
+
+### Books or references I have gone over but didn't finish or want to revisit:
+
+### Books, references, topics I want to learn about
+
 <!--
 **julillermo/julillermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
