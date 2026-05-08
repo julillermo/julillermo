@@ -1,11 +1,16 @@
 ## Hi there and welcome! 👋
 
+Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native, PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
+
 ### Current Topic or Reference I'm going through:
 
 1. Scala
-2. AWS
 
-### Current Project I want to spend time on:
+### Topic I want to spend time learning:
+
+1. AWS
+
+### Current project I want to spend time on:
 
 1. [tsukuru](https://github.com/julillermo/tsukuru)
 
