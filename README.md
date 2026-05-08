@@ -2,17 +2,10 @@
 
 Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native, PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
 
-### Current Topic or Reference I'm going through:
+| Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
+|-----------------------------------|-------------------------------------|--------------------------------------------------|
+| Scala                             | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
-1. Scala
-
-### Topic I want to spend time learning:
-
-1. AWS
-
-### Current project I want to spend time on:
-
-1. [tsukuru](https://github.com/julillermo/tsukuru)
 
 ### Some of my learning history:
 
@@ -26,7 +19,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 - 💭️ Field, concept, or topic related:
   - Mining Social Media (Web Scraping) [[link]](https://socialdata.site/) [[my github repo]](https://github.com/julillermo/Learning-Social-Media-Mining)
 
-#### 🎯️ References I have gone over, but some day would like to revisit:
+#### 🎯️ References I have made attempts to go over, but would someday like to revisit:
 
 - 📜 Programming language related:
   - Learn Physics With Functional Programming (Haskell) [[link]](https://nostarch.com/learn-physics-functional-programming) [[my github repo]](https://github.com/julillermo/Learning-Haskell-Physics)
