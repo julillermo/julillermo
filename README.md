@@ -1,12 +1,36 @@
-## Hi there 👋
+## Hi there and welcome! 👋
 
-### Books or references I have finished or mostly gone over:
+### Current Topic or Reference I'm going through:
 
-### Books or references I have gone over but didn't finish or want to revisit:
+1. Scala
+2. AWS
 
-### Books, references, topics I want to learn about
+### Current Project I want to spend time on:
+
+1. [tsukuru](https://github.com/julillermo/tsukuru)
+
+### Some of my learning history:
+
+#### 👍️ References I have finished or am satisfied with my read through:
+
+- 📜 Programming language related:
+  - Scala Book (v2) from the Scala website [[link]](https://docs.scala-lang.org/overviews/scala-book/introduction.html) [[my github repo]](https://github.com/julillermo/Learning-Scala)
+  - The Complete Developer (TypeScript) [[link]](https://nostarch.com/complete-developer) [[my github repo]](https://github.com/julillermo/Learning-Full-Stack)
+  - JavaScript Crash Cource [[link]](https://nostarch.com/javascript-crash-course) [[my github repo]](https://github.com/julillermo/JS-Crash-Course-Projects)
+  - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
+- 💭️ Field, concept, or topic related:
+  - Mining Social Media (Web Scraping) [[link]](https://socialdata.site/) [[my github repo]](https://github.com/julillermo/Learning-Social-Media-Mining)
+
+#### 🎯️ References I have gone over, but some day would like to revisit:
+
+- 📜 Programming language related:
+  - Learn Physics With Functional Programming (Haskell) [[link]](https://nostarch.com/learn-physics-functional-programming) [[my github repo]](https://github.com/julillermo/Learning-Haskell-Physics)
+  - C++ Crash Course [[link]](https://nostarch.com/cppcrashcourse) [[my github repo]](https://github.com/julillermo/Learning-C-plus-plus)
+  - The Rust Programming Langauge [[link]](https://doc.rust-lang.org/stable/book/) [[my github repo]](https://github.com/julillermo/Learning-Rust)
 
 <!--
+// ### Books, references, topics I want to learn about:
+
 **julillermo/julillermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
