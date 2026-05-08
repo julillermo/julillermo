@@ -1,6 +1,6 @@
 ## Hi there and welcome! 👋
 
-Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native, PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
+Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native (Expo), PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
