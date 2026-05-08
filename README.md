@@ -7,9 +7,9 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 | Scala                             | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
 
-### Some of my learning history:
+## Some of my software development learning history:
 
-#### 👍️ References I have finished or am satisfied with my read through:
+### 👍️ References I have finished or am satisfied with my read through:
 
 - 📜 Programming language related:
   - Scala Book (v2) from the Scala website [[link]](https://docs.scala-lang.org/overviews/scala-book/introduction.html) [[my github repo]](https://github.com/julillermo/Learning-Scala)
@@ -19,7 +19,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 - 💭️ Field, concept, or topic related:
   - Mining Social Media (Web Scraping) [[link]](https://socialdata.site/) [[my github repo]](https://github.com/julillermo/Learning-Social-Media-Mining)
 
-#### 🎯️ References I have made attempts to go over, but would someday like to revisit:
+### 🎯️ References I have made attempts to go over, but would someday like to revisit:
 
 - 📜 Programming language related:
   - Learn Physics With Functional Programming (Haskell) [[link]](https://nostarch.com/learn-physics-functional-programming) [[my github repo]](https://github.com/julillermo/Learning-Haskell-Physics)
