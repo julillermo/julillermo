@@ -4,7 +4,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
-| Scala                             | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
+| [Scala "Red Book"](https://github.com/xiaozhiliaoo/ScalaBooks/blob/main/Functional-Programming-in-Scala.pdf) (Functional Programming in Scala)                           | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
 
 ## Some of my software development learning history:
