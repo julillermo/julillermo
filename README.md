@@ -15,7 +15,6 @@ Hi, I’m a junior software developer with a background in Physics and Materials
   - Scala Book (v2) from the Scala website [[link]](https://docs.scala-lang.org/overviews/scala-book/introduction.html) [[my github repo]](https://github.com/julillermo/Learning-Scala)
   - The Complete Developer (TypeScript) [[link]](https://nostarch.com/complete-developer) [[my github repo]](https://github.com/julillermo/Learning-Full-Stack)
   - JavaScript Crash Cource [[link]](https://nostarch.com/javascript-crash-course) [[my github repo]](https://github.com/julillermo/JS-Crash-Course-Projects)
-  - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
 - 💭️ Field, concept, or topic related:
   - Mining Social Media (Web Scraping) [[link]](https://socialdata.site/) [[my github repo]](https://github.com/julillermo/Learning-Social-Media-Mining)
 
@@ -25,6 +24,8 @@ Hi, I’m a junior software developer with a background in Physics and Materials
   - Learn Physics With Functional Programming (Haskell) [[link]](https://nostarch.com/learn-physics-functional-programming) [[my github repo]](https://github.com/julillermo/Learning-Haskell-Physics)
   - C++ Crash Course [[link]](https://nostarch.com/cppcrashcourse) [[my github repo]](https://github.com/julillermo/Learning-C-plus-plus)
   - The Rust Programming Langauge [[link]](https://doc.rust-lang.org/stable/book/) [[my github repo]](https://github.com/julillermo/Learning-Rust)
+  - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
+
 
 <!--
 // ### Books, references, topics I want to learn about:
