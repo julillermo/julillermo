@@ -4,7 +4,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
-| [Scala "Red Book"](https://github.com/xiaozhiliaoo/ScalaBooks/blob/main/Functional-Programming-in-Scala.pdf) (Functional Programming in Scala)                           | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
+|                                   | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
 
 ## Some of my software development learning history:
@@ -25,6 +25,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
   - C++ Crash Course [[link]](https://nostarch.com/cppcrashcourse) [[my github repo]](https://github.com/julillermo/Learning-C-plus-plus)
   - The Rust Programming Langauge [[link]](https://doc.rust-lang.org/stable/book/) [[my github repo]](https://github.com/julillermo/Learning-Rust)
   - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
+  - Functional Programming in Scala [Scala "Red Book"](https://github.com/xiaozhiliaoo/ScalaBooks/blob/main/Functional-Programming-in-Scala.pdf) [[my github repo]](https://github.com/julillermo/Learning-Functional-Scala)
 
 
 <!--
