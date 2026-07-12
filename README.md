@@ -4,7 +4,7 @@ Hi, I’m a junior software developer with a background in Physics and Materials
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
-| Repurposing an old laptop into a home server | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
+| Boot.dev | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
 
 ## Some of my software development learning history:
