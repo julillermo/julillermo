@@ -1,9 +1,5 @@
 ## Hi there and welcome! 👋
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/c105a067-1b6f-4e57-b0d7-47a8dec61001/thumbnail" >
-</p>
-
 Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native (Expo), PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
@@ -31,6 +27,11 @@ Hi, I’m a junior software developer with a background in Physics and Materials
   - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
   - Functional Programming in Scala [Scala "Red Book"](https://github.com/xiaozhiliaoo/ScalaBooks/blob/main/Functional-Programming-in-Scala.pdf) [[my github repo]](https://github.com/julillermo/Learning-Functional-Scala)
 
+### 🐻 Boot.dev progress
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/c105a067-1b6f-4e57-b0d7-47a8dec61001/thumbnail" >
+</p>
 
 <!--
 // ### Books, references, topics I want to learn about:
