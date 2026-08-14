@@ -1,10 +1,12 @@
 ## Hi there and welcome! 👋
 
-Hi, I’m a junior software developer with a background in Physics and Materials Science, and prior research experience in optics and photonics. I’ve spent the last 2.5 years working in full-stack development with Node.js, TypeScript, React, React Native (Expo), PostgreSQL, and Python. I enjoy working on software and learning across disciplines.
+Hi, I’m a junior software developer with a background in Physics and Materials Science, prior research work in optics and photonics, as well as experience in educational materials development. I’ve spent the last **~3 years** working in **full-stack development** with Node.js, TypeScript, React, React Native (Expo), PostgreSQL, Python, and Scala. I'm currently on track to accomplish the Boot.dev's **DevOps Engineer** path, as I aim to transition into more **DevOps** and **Backend** roles. 
+
+I enjoy working on software and learning across disciplines. Feel free to contact me regarding work-based opportunites
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
-| Boot.dev | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
+| [tsukuru](https://github.com/julillermo/tsukuru) | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
 
 
 ## Some of my software development learning history:
@@ -26,6 +28,8 @@ Hi, I’m a junior software developer with a background in Physics and Materials
   - The Rust Programming Langauge [[link]](https://doc.rust-lang.org/stable/book/) [[my github repo]](https://github.com/julillermo/Learning-Rust)
   - The Linux Command Line [[link]](https://www.linuxcommand.org/tlcl.php)
   - Functional Programming in Scala [Scala "Red Book"](https://github.com/xiaozhiliaoo/ScalaBooks/blob/main/Functional-Programming-in-Scala.pdf) [[my github repo]](https://github.com/julillermo/Learning-Functional-Scala)
+- 🛤️ Online Courses:
+  - Boot.dev (DevOps Engineer Path)
 
 ### 🐻 Boot.dev progress
 
