@@ -2,7 +2,7 @@
 
 Hi, I’m a **Software Developer** who made a few career jumps before becoming deeply engaged in the arts of software development.
 
-- ⚔️ Farmed EXP for a different job class early on:
+- ⚔️ Farmed EXP for a different job class:
   - Studied **Physics** & **Materials Science**, and tried work within and adjacent to the field
 - 🧙 Went all in on **full-stack web development** sorcery:
   - Spent **~3 years** at a startup where I used **TypeScript**, React, **PostgreSQL**, **Python**, and Scala.
@@ -10,7 +10,7 @@ Hi, I’m a **Software Developer** who made a few career jumps before becoming d
   - Recently finished **Boot.dev's DevOps Engineer** Path.
   - Stay interested through self-learning and experimentation.
 - 🛡️ Looking to join a party:
-  - Open to **Junior** to **Mid-level** job opportunities in **Backend** and **DevOps**-oriented roles.
+  - Open to taking on **Junior** to **Mid-level** job opportunities in **Backend** and **DevOps**-oriented roles.
 
 | Topic I'm currently going through                | Topic I want to spend time learning | Project I want to spend time on                  |
 | ------------------------------------------------ | ----------------------------------- | ------------------------------------------------ |
