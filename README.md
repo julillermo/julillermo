@@ -1,8 +1,12 @@
 ## Hi there and welcome! 👋
 
-Hi, I’m a junior software developer with a background in Physics and Materials Science, prior research work in optics and photonics, as well as experience in educational materials development. I’ve spent the last **~3 years** working in **full-stack development** with Node.js, TypeScript, React, React Native (Expo), PostgreSQL, Python, and Scala. I'm currently on track to accomplish the Boot.dev's **DevOps Engineer** path, as I aim to transition into more **DevOps** and **Backend** roles. 
+Hi, I’m an up-and-coming **software developer** with quite a storied career journey before becoming deeply engaged in the mystical craft of software development.
 
-I enjoy working on software and learning across disciplines. Feel free to contact me regarding work-based opportunites
+You can say that I've tried out many different job classes ⚔️ in the early game. I started with a background in **Physics** and **Materials Science**, interned at a **nuclear science** institute, became a part-time **optics and photonics** research assistant, and then tried **educational materials** development as my first full-time job. 
+
+For my latest job class, I’ve spent the last **~3 years** going all in on the dark arts **full-stack development**. My first software job was at a startup where I used **TypeScript**, React, React Native (Expo), **PostgreSQL**, **Python**, and Scala. I have learned a lot from my superiors and from all the time I spent keeping interested.
+
+I recently finished Boot.dev's **DevOps Engineer** path, and I am currently targeting a pivot into more **DevOps** and **Backend** roles (hopefully in **Go**). If you have any collaboration or job opportunities, feel free to shoot me a message if you have an open slot in your party.
 
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 |-----------------------------------|-------------------------------------|--------------------------------------------------|
