@@ -1,6 +1,6 @@
 ## Hi there and welcome! 👋
 
-Hi, I’m a **Software Developer** who made a few career jumps before becoming deeply engaged in the arts of software development.
+Hi, I’m a **Software Developer** who made a few career jumps before becoming deeply engaged in the art of software development.
 
 - ⚔️ Farmed EXP for a different job class:
   - Studied **Physics** & **Materials Science**, and tried work within and adjacent to the field
