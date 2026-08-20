@@ -12,6 +12,8 @@ Hi, I’m a **Software Developer** who made a few career jumps before becoming d
 - 🛡️ Looking to join a party:
   - Open to taking on **Junior** to **Mid-level** job opportunities in **Backend** and **DevOps**-oriented roles.
 
+<br></br>
+
 | Topic I'm currently going through | Topic I want to spend time learning | Project I want to spend time on                  |
 | --------------------------------- | ----------------------------------- | ------------------------------------------------ |
 | [tsukuru](https://github.com/julillermo/tsukuru) | AWS                                 | [tsukuru](https://github.com/julillermo/tsukuru) |
