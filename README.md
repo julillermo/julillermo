@@ -5,7 +5,7 @@ Hi, I’m a **Software Developer** who made a few career jumps before becoming d
 - ⚔️ Farmed EXP for a different job class:
   - Studied **Physics** & **Materials Science**, and tried work within and adjacent to the field
 - 🧙 Went all in on **full-stack web development** sorcery:
-  - Spent **~3 years** at a startup where I used **TypeScript**, React, **PostgreSQL**, **Python**, and Scala.
+  - Spent **~3 years** at a startup where I used **TypeScript**, React, React-Native, **PostgreSQL**, **Python**, and Scala.
 - 🌳 Building up my skill tree:
   - Recently finished **Boot.dev's DevOps Engineer** Path.
   - Stay interested through self-learning and experimentation.
